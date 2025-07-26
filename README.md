@@ -28,7 +28,7 @@
 - 📊 **NYC 311 Data Analysis**  
   Used Python for wrangling, analyzing, and visualizing customer service request data as part of a coursework assignment.
 
----
+
 
 ## 📚 Technical Skills
 
@@ -37,7 +37,6 @@
 | Flutter, Dart  | Django (Python) | PostgreSQL, SQLite | Git, Firebase, REST API |
 |                |                | MySQL          | VSCode, Postman, Figma  |
 
----
 
 ## 📌 Currently Learning
 
@@ -46,10 +45,10 @@
 - RESTful backend integration with Django
 - Practical SQL queries and relational DB modeling
 
----
+
 
 ## 📊 GitHub Stats & Streaks
--
+
 <table>
   <tr>
     <td>
@@ -66,7 +65,7 @@
 </td>
 </tr>
 </table>
----
+ 
 
 ## 📫 Connect with Me
 
@@ -74,7 +73,7 @@
 - 💼 **LinkedIn**: [linkedin.com/in/diksha-ghimire-24033b293](https://www.linkedin.com/in/diksha-ghimire-24033b293/)
 - 📧 **Email**: [ghimirediksha222@gmail.com](mailto:ghimirediksha222@gmail.com)
 
----
+ 
 
 > “Code is not just what I do, it’s how I solve problems creatively.”
 
