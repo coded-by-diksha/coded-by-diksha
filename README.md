@@ -49,17 +49,23 @@
 ---
 
 ## 📊 GitHub Stats & Streaks
-
+-
+<table>
+  <tr>
+    <td>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coded-by-diksha&theme=tokyonight" alt="GitHub Streaks"/>
 </p>
 
-
+</td>
+<td>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded-by-diksha&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
+</td>
+</tr>
+</table>
 ---
 
 ## 📫 Connect with Me
