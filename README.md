@@ -11,7 +11,6 @@
 ## 💼 What I Do
 
 - 🚀 **Flutter Development** – I love building sleek, responsive apps with clean architecture and meaningful design.
-- 🛠️ **Backend Integration** – Working with Django and PostgreSQL to power features like booking systems, authentication, and real-time messaging.
 - 📡 **API Integration** – Consuming RESTful APIs and managing data flow between front-end and back-end.
 - 🔒 **Security Practices** – Implementing password hashing and validation for secure user handling.
 - 🧠 **Learning Daily** – Currently leveling up my skills in Flutter, advanced UI design, and efficient state management.
