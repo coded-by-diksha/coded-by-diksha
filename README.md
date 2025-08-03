@@ -89,8 +89,8 @@
   <tr>
     <td>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coded-by-diksha&theme=black-ice&hide_border=true&v=2" alt="GitHub Streaks"/>
-</p>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=coded-by-diksha&theme=black-ice&hide_border=true&v=2" alt="GitHub Streaks"/>
+</p> -->
 
 </td>
 <td>
