@@ -36,10 +36,17 @@
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+    
   </a> 
+  <a herf="https://expressjs.com/" target="_blank" title="Ecpress.js">
+    <img src= "https://github.com/user-attachments/assets/932ba305-1b0e-457c-8f5a-209bd1edca13" alt="express.js" width="40" height="40"/>
+
+      
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
+  
   <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
