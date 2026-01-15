@@ -1,6 +1,5 @@
 
 # 👋 Hello! I'm Diksha Ghimire
-<img src="https://camo.githubusercontent.com/93ee17cb297b1ac91fa41c4f17f86a1d203216fda155ab1e206cf610d61ebbc1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f773341504c6b4d75545830414141414d2f636f6d70757465722d776f726b2e676966" width="200" alt="Girl Coding GIF" align="right" style="vertical-align: middle; margin-top: -30px; margin-bottom:20px"/>
 
 🌱 A passionate Flutter front-end developer and bachelor's student, currently focused on crafting intuitive mobile applications that blend modern UI/UX with practical backend integration.
 
