@@ -5,7 +5,7 @@
 🌱 A passionate Flutter front-end developer and bachelor's student, currently focused on crafting intuitive mobile applications that blend modern UI/UX with practical backend integration.
 
 
-🎓 I'm pursuing my Bachelor's degree (2nd year), and already diving deep into real-world projects like food delivery, client-chef bookings, and smart home interfaces.
+🎓 I'm pursuing my Bachelor's degree (3rd year), and already diving deep into real-world projects like food delivery, client-chef bookings, and smart home interfaces.
 <br><br><br>
 
 ## 💼 What I Do
